@@ -1,0 +1,10 @@
+{
+    "Urls": 
+        {
+            "SesndMessage": "https://chatapi.viber.com/pa/send_message",
+            "SetWebhook": "https://chatapi.viber.com/pa/set_webhook",
+            "GetAccountInfo": "https://chatapi.viber.com/pa/get_account_info",
+            "GetUserDetails": "https://chatapi.viber.com/pa/get_user_details"
+        }
+    
+}
